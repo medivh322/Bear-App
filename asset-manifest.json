@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Bear-App/static/css/main.c8963da0.chunk.css",
+    "main.js": "/Bear-App/static/js/main.ae532640.chunk.js",
+    "main.js.map": "/Bear-App/static/js/main.ae532640.chunk.js.map",
+    "runtime-main.js": "/Bear-App/static/js/runtime-main.049caea9.js",
+    "runtime-main.js.map": "/Bear-App/static/js/runtime-main.049caea9.js.map",
+    "static/js/2.40b5216b.chunk.js": "/Bear-App/static/js/2.40b5216b.chunk.js",
+    "static/js/2.40b5216b.chunk.js.map": "/Bear-App/static/js/2.40b5216b.chunk.js.map",
+    "static/js/3.7bdb6a0b.chunk.js": "/Bear-App/static/js/3.7bdb6a0b.chunk.js",
+    "static/js/3.7bdb6a0b.chunk.js.map": "/Bear-App/static/js/3.7bdb6a0b.chunk.js.map",
+    "index.html": "/Bear-App/index.html",
+    "static/css/main.c8963da0.chunk.css.map": "/Bear-App/static/css/main.c8963da0.chunk.css.map",
+    "static/js/2.40b5216b.chunk.js.LICENSE.txt": "/Bear-App/static/js/2.40b5216b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Bear-App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.049caea9.js",
+    "static/js/2.40b5216b.chunk.js",
+    "static/css/main.c8963da0.chunk.css",
+    "static/js/main.ae532640.chunk.js"
+  ]
+}
