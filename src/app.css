@@ -1,0 +1,36 @@
+.item{
+    height: 100%;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+.items_row >*:nth-child(n+5){
+    margin-top: 20px;
+}
+.item__img{
+    height: 250px;
+    object-fit: contain;
+}
+.item__name{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+    color: #fff;
+}
+.item_ul{
+    align-self: flex-start;
+    margin: auto 0 0 0;
+    padding: 0;
+    list-style: none;
+    color: #fff;
+}
+.form_item{
+    display: flex;
+}
+.form_item p{
+    color: red;
+    font-size: 15px;
+    margin-left: 10px;
+}
